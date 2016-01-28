@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_bg_unsel">#ffffff</color>
+    <color name="tab_bg_sel">#ff0000</color>
+    <color name="tab_text_unsel">#000000</color>
+    <color name="tab_text_sel">#00ff00</color>
+</resources>
